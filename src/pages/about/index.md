@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About
+title: About me
 ---
 I'm Paul Barton, an Information Security Researcher.
 
